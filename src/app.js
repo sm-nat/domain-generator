@@ -1,18 +1,18 @@
 /* eslint-disable */
-import "bootstrap";
+/*import "bootstrap";
 import "./style.css";
 
 import "./assets/img/rigo-baby.jpg";
-import "./assets/img/4geeks.ico";
+import "./assets/img/4geeks.ico"; */
 
-window.onload = () => {
+/*window.onload = () => {
   //write your code here
   document.querySelector("#btn").addEventListener("click", () => {
     document.querySelector("#the-domain").innerHTML = generateDomains();
   });
 
   console.log("Hello");
-};
+};*/
 
 let pronoun = ["the", "our", "your", "my", "his", "her"];
 let adj = [
